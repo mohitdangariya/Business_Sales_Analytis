@@ -25,7 +25,7 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - Cleaned and transformed data using **Power Query**.
 - Below is the **data model view**:
 
-![Diagram View](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Data%20Model.png)
+![Diagram View](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/Data%20Model.png)
 
 ---
 
@@ -36,8 +36,8 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - **Objective**: Evaluate customer-wise sales contribution, profit, and gross margin.  
 - **Value**: Identifies top-performing customers and supports negotiation strategies.
   
-![Customer Performance Report](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Customer%20Performance%20Report%201.jpg)
-![Customer Performance Report](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Customer%20Performance%20Report%202.jpg)
+![Customer Performance Report](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/Customer%20Performance%20Report%201.jpg)
+![Customer Performance Report](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/Customer%20Performance%20Report%202.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - **Objective**: Compare actual sales vs targets across different markets.  
 - **Value**: Helps identify underperforming regions and growth opportunities.
 
-![Market vs Target](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Market%20Performance%20vs%20Target.png)
+![Market vs Target](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/Market%20Performance%20vs%20Target.png)
 
 ---
 
@@ -57,7 +57,7 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - **Objective**: Summarize company performance annually across key metrics like Net Sales, COGS, Gross Margin, and Net Profit.  
 - **Value**: Useful for high-level financial planning and benchmarking across years.
 
-![P&L Year](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/P%20%26%20L%20Year.png)
+![P&L Year](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/P%20%26%20L%20Year.png)
 
 ---
 
@@ -66,7 +66,7 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - **Objective**: Analyze monthly breakdowns of financial performance.  
 - **Value**: Supports short-term budgeting and variance tracking.
 
-![P&L Month](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/P%20%26%20L%20Month.png)
+![P&L Month](https://github.com/mohitdangariya/Business_Sales_Analytis/blob/main/report/picture/P%20%26%20L%20Month.png)
 
 ---
 
