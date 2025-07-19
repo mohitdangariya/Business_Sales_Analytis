@@ -25,7 +25,7 @@ AtliQ Hardware is a growing company that is gradually transitioning to advanced 
 - Cleaned and transformed data using **Power Query**.
 - Below is the **data model view**:
 
-![Diagram View](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Data%20Model.jpg)
+![Diagram View](https://github.com/RamaniRavi/Business_Sales_Analytis/blob/main/report/picture/Data%20Model.png)
 
 ---
 
